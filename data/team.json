@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Alexis Kostopoulos",
+    "role": "President",
+    "category": "Board",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Maria Papadopoulou",
+    "role": "Tech Lead",
+    "category": "Board",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Dimitris Tsakiris",
+    "role": "Hardware Lead",
+    "category": "Board",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Elena Vassiliadou",
+    "role": "PR & Communications",
+    "category": "Board",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Nikos Andreou",
+    "role": "Software Engineer",
+    "category": "Members",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Sofia Georgiou",
+    "role": "Electronics Engineer",
+    "category": "Members",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  }
+]
