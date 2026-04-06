@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Autonomous rover prototype",
+    "description": "GPS-guided outdoor rover with obstacle avoidance using LIDAR and ROS2.",
+    "icon": "⚙",
+    "tags": ["Robotics", "ROS2", "C++", "LIDAR"],
+    "status": "active",
+    "featured": true,
+    "members": 5,
+    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/rover"
+  },
+  {
+    "name": "LoRa sensor network",
+    "description": "Low-power mesh sensor network for campus environmental monitoring.",
+    "icon": "📡",
+    "tags": ["IoT", "LoRa", "Python", "Embedded"],
+    "status": "active",
+    "featured": true,
+    "members": 3,
+    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/lora-network"
+  },
+  {
+    "name": "Robotic arm controller",
+    "description": "6-DOF robotic arm with vision-based pick-and-place using OpenCV.",
+    "icon": "🤖",
+    "tags": ["OpenCV", "Arduino", "Python", "Computer Vision"],
+    "status": "active",
+    "featured": true,
+    "members": 4,
+    "github": ""
+  },
+  {
+    "name": "FPGA signal processor",
+    "description": "Real-time DSP pipeline on Xilinx FPGA for audio and RF signals.",
+    "icon": "⚡",
+    "tags": ["VHDL", "FPGA", "DSP", "Xilinx"],
+    "status": "completed",
+    "featured": true,
+    "members": 2,
+    "github": ""
+  }
+]
