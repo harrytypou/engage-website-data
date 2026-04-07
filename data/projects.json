@@ -1,42 +1,66 @@
 [
   {
-    "name": "Autonomous rover prototype",
-    "description": "GPS-guided outdoor rover with obstacle avoidance using LIDAR and ROS2.",
     "icon": "⚙",
     "tags": ["Robotics", "ROS2", "C++", "LIDAR"],
     "status": "active",
     "featured": true,
     "members": 5,
-    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/rover"
+    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/rover",
+    "en": {
+      "name": "Autonomous rover prototype",
+      "description": "GPS-guided outdoor rover with obstacle avoidance using LIDAR and ROS2."
+    },
+    "el": {
+      "name": "Πρωτότυπο αυτόνομου rover",
+      "description": "Υπαίθριο rover με GPS και αποφυγή εμποδίων μέσω LIDAR και ROS2."
+    }
   },
   {
-    "name": "LoRa sensor network",
-    "description": "Low-power mesh sensor network for campus environmental monitoring.",
     "icon": "📡",
     "tags": ["IoT", "LoRa", "Python", "Embedded"],
     "status": "active",
     "featured": true,
     "members": 3,
-    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/lora-network"
+    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/lora-network",
+    "en": {
+      "name": "LoRa sensor network",
+      "description": "Low-power mesh sensor network for campus environmental monitoring."
+    },
+    "el": {
+      "name": "Δίκτυο αισθητήρων LoRa",
+      "description": "Δίκτυο αισθητήρων χαμηλής ισχύος για περιβαλλοντική παρακολούθηση campus."
+    }
   },
   {
-    "name": "Robotic arm controller",
-    "description": "6-DOF robotic arm with vision-based pick-and-place using OpenCV.",
     "icon": "🤖",
     "tags": ["OpenCV", "Arduino", "Python", "Computer Vision"],
     "status": "active",
     "featured": true,
     "members": 4,
-    "github": ""
+    "github": "",
+    "en": {
+      "name": "Robotic arm controller",
+      "description": "6-DOF robotic arm with vision-based pick-and-place using OpenCV."
+    },
+    "el": {
+      "name": "Ελεγκτής ρομποτικού βραχίονα",
+      "description": "Ρομποτικός βραχίονας 6-DOF με vision-based pick-and-place μέσω OpenCV."
+    }
   },
   {
-    "name": "FPGA signal processor",
-    "description": "Real-time DSP pipeline on Xilinx FPGA for audio and RF signals.",
     "icon": "⚡",
     "tags": ["VHDL", "FPGA", "DSP", "Xilinx"],
     "status": "completed",
     "featured": true,
     "members": 2,
-    "github": ""
+    "github": "",
+    "en": {
+      "name": "FPGA signal processor",
+      "description": "Real-time DSP pipeline on Xilinx FPGA for audio and RF signals."
+    },
+    "el": {
+      "name": "Επεξεργαστής σήματος FPGA",
+      "description": "Pipeline DSP σε πραγματικό χρόνο σε Xilinx FPGA για ήχο και RF σήματα."
+    }
   }
 ]
