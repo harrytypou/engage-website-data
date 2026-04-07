@@ -1,34 +1,62 @@
 [
   {
-    "name": "IEEE Student Paper Contest 2026",
-    "date": "April 20, 2026",
-    "scope": "International",
     "status": "upcoming",
     "result": "",
-    "url": "https://www.ieee.org"
+    "url": "https://www.ieee.org",
+    "en": {
+      "name": "IEEE Student Paper Contest 2026",
+      "date": "April 20, 2026",
+      "scope": "International"
+    },
+    "el": {
+      "name": "IEEE Student Paper Contest 2026",
+      "date": "20 Απριλίου 2026",
+      "scope": "Διεθνής"
+    }
   },
   {
-    "name": "RoboCup Greece Qualifier 2026",
-    "date": "Ongoing registration",
-    "scope": "National",
     "status": "active",
     "result": "",
-    "url": ""
+    "url": "",
+    "en": {
+      "name": "RoboCup Greece Qualifier 2026",
+      "date": "Ongoing registration",
+      "scope": "National"
+    },
+    "el": {
+      "name": "RoboCup Greece Qualifier 2026",
+      "date": "Ανοιχτές εγγραφές",
+      "scope": "Εθνικός"
+    }
   },
   {
-    "name": "IEEEXtreme 19.0",
-    "date": "October 2025",
-    "scope": "International",
     "status": "past",
     "result": "2nd place",
-    "url": "https://ieeextreme.org"
+    "url": "https://ieeextreme.org",
+    "en": {
+      "name": "IEEEXtreme 19.0",
+      "date": "October 2025",
+      "scope": "International"
+    },
+    "el": {
+      "name": "IEEEXtreme 19.0",
+      "date": "Οκτώβριος 2025",
+      "scope": "Διεθνής"
+    }
   },
   {
-    "name": "National Robotics Olympiad 2025",
-    "date": "May 2025",
-    "scope": "National",
     "status": "past",
     "result": "Finalists",
-    "url": ""
+    "url": "",
+    "en": {
+      "name": "National Robotics Olympiad 2025",
+      "date": "May 2025",
+      "scope": "National"
+    },
+    "el": {
+      "name": "Εθνική Ολυμπιάδα Ρομποτικής 2025",
+      "date": "Μάιος 2025",
+      "scope": "Εθνικός"
+    }
   }
 ]
