@@ -1,4 +1,4 @@
-# EVCLUB — Data File Reference
+# ENGAGE — Data File Reference
 
 All content files live in your GitHub content repo under `data/`. The site fetches them via the raw GitHub URL. To update content, edit the JSON files and commit — no code deploy needed.
 
