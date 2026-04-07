@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "type": "achievement",
+    "date": "2026-03-15",
+    "image": "assets/news/ieeeXtreme.jpg",
+    "links": [
+      { "label": "Official results", "url": "https://ieeextreme.org" }
+    ],
+    "en": {
+      "title": "2nd place at IEEEXtreme 19.0",
+      "excerpt": "Our team finished 2nd nationally and top 5% globally in the 24-hour programming marathon.",
+      "body": "We're thrilled to announce that our team placed 2nd in Greece and within the top 5% globally at IEEEXtreme 19.0 — the annual 24-hour international programming competition organised by IEEE.\n\nThe team of three worked through the night solving algorithmic problems across a wide range of difficulty levels. This is our best result to date and a testament to the dedication of everyone involved.\n\nCongratulations to all participants and a big thank you to our coaches and sponsors who made this possible."
+    },
+    "el": {
+      "title": "2η θέση στο IEEEXtreme 19.0",
+      "excerpt": "Η ομάδα μας κατέλαβε την 2η θέση στην Ελλάδα και top 5% παγκοσμίως στο 24ωρο διαγωνισμό προγραμματισμού.",
+      "body": "Χαρούμενοι να ανακοινώσουμε ότι η ομάδα μας κατέλαβε την 2η θέση στην Ελλάδα και βρέθηκε στο top 5% παγκοσμίως στο IEEEXtreme 19.0 — τον ετήσιο 24ωρο διεθνή διαγωνισμό προγραμματισμού που διοργανώνει το IEEE.\n\nΗ τριμελής ομάδα εργάστηκε όλη νύχτα λύνοντας αλγοριθμικά προβλήματα διαφόρων επιπέδων δυσκολίας. Αυτό είναι το καλύτερο αποτέλεσμά μας μέχρι σήμερα.\n\nΣυγχαρητήρια σε όλους τους συμμετέχοντες και ευχαριστούμε τους προπονητές και χορηγούς μας."
+    }
+  },
+  {
+    "id": "2",
+    "type": "event",
+    "date": "2026-04-10",
+    "image": "",
+    "links": [],
+    "en": {
+      "title": "Open Workshop: Introduction to ROS2",
+      "excerpt": "Join us for a hands-on workshop on Robot Operating System 2 — open to all university students.",
+      "body": "We are hosting an open workshop on ROS2 (Robot Operating System 2) on April 10th at the Engineering Building, Room 204.\n\nThe workshop is beginner-friendly and covers:\n- ROS2 architecture overview\n- Setting up your environment\n- Writing your first publisher/subscriber node\n- Hands-on simulation with Gazebo\n\nNo prior robotics experience is required. Bring your laptop with Ubuntu 22.04 or Windows WSL2. Spots are limited so register early via the contact form."
+    },
+    "el": {
+      "title": "Ανοιχτό Workshop: Εισαγωγή στο ROS2",
+      "excerpt": "Ελάτε σε ένα πρακτικό workshop για το Robot Operating System 2 — ανοιχτό για όλους τους φοιτητές.",
+      "body": "Διοργανώνουμε ανοιχτό workshop για το ROS2 (Robot Operating System 2) στις 10 Απριλίου στο Κτίριο Μηχανικής, Αίθουσα 204.\n\nΤο workshop απευθύνεται σε αρχάριους και καλύπτει:\n- Αρχιτεκτονική του ROS2\n- Ρύθμιση περιβάλλοντος\n- Γράψιμο του πρώτου σου publisher/subscriber node\n- Πρακτική προσομοίωση με το Gazebo\n\nΔεν απαιτείται προηγούμενη εμπειρία. Φέρτε laptop με Ubuntu 22.04 ή Windows WSL2."
+    }
+  },
+  {
+    "id": "3",
+    "type": "announcement",
+    "date": "2026-02-01",
+    "image": "",
+    "links": [
+      { "label": "Apply now", "url": "contact.html" }
+    ],
+    "en": {
+      "title": "Recruitment open for Spring 2026",
+      "excerpt": "We are accepting new members for the Spring 2026 semester. All departments welcome.",
+      "body": "EVCLUB is opening applications for new members for the Spring 2026 semester.\n\nWe are looking for motivated students from any department who are passionate about engineering, robotics, embedded systems, or technology in general.\n\nWhat we offer:\n- Hands-on project experience\n- Access to hardware and equipment\n- Participation in national and international competitions\n- A great community of like-minded engineers\n\nTo apply, fill out the form on our Contact page. Applications close April 30th."
+    },
+    "el": {
+      "title": "Ανοιχτές αιτήσεις για την Άνοιξη 2026",
+      "excerpt": "Δεχόμαστε νέα μέλη για το εαρινό εξάμηνο 2026. Ευπρόσδεκτοι φοιτητές από όλα τα τμήματα.",
+      "body": "Το EVCLUB ανοίγει αιτήσεις για νέα μέλη για το εαρινό εξάμηνο 2026.\n\nΑναζητούμε φοιτητές από οποιοδήποτε τμήμα με πάθος για τη μηχανική, τη ρομποτική, τα ενσωματωμένα συστήματα ή την τεχνολογία γενικά.\n\nΤι προσφέρουμε:\n- Πρακτική εμπειρία σε projects\n- Πρόσβαση σε εξοπλισμό\n- Συμμετοχή σε εθνικούς και διεθνείς διαγωνισμούς\n- Μια κοινότητα φοιτητών με κοινά ενδιαφέροντα\n\nΓια να κάνεις αίτηση, συμπλήρωσε τη φόρμα στη σελίδα Επικοινωνία."
+    }
+  }
+]
