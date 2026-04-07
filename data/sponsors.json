@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sponsor A",
+    "tier": "gold",
+    "display_mode": "text",
+    "logo": "",
+    "website": "https://sponsora.com"
+  },
+  {
+    "name": "Sponsor B",
+    "tier": "gold",
+    "display_mode": "logo",
+    "logo": "assets/sponsors/sponsor-b.png",
+    "website": "https://sponsorb.com"
+  },
+  {
+    "name": "Sponsor C",
+    "tier": "silver",
+    "display_mode": "text",
+    "logo": "",
+    "website": "https://sponsorc.com"
+  },
+  {
+    "name": "Sponsor D",
+    "tier": "silver",
+    "display_mode": "text",
+    "logo": "",
+    "website": ""
+  },
+  {
+    "name": "Sponsor E",
+    "tier": "bronze",
+    "display_mode": "text",
+    "logo": "",
+    "website": ""
+  }
+]
