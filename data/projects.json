@@ -1,66 +1,50 @@
 [
   {
-    "icon": "⚙",
-    "tags": ["Robotics", "ROS2", "C++", "LIDAR"],
+    "icon": "🤖",
+    "tags": ["Robotics", "3D Printing", "AI", "Embedded"],
     "status": "active",
     "featured": true,
     "members": 5,
-    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/rover",
+    "github": "",
     "en": {
-      "name": "Autonomous rover prototype",
-      "description": "GPS-guided outdoor rover with obstacle avoidance using LIDAR and ROS2."
+      "name": "WALL-E Robot",
+      "description": "Fully 3D-printed WALL-E replica robot, designed, programmed, and developed in-house, featuring AI-powered voice interaction."
     },
     "el": {
-      "name": "Πρωτότυπο αυτόνομου rover",
-      "description": "Υπαίθριο rover με GPS και αποφυγή εμποδίων μέσω LIDAR και ROS2."
+      "name": "Ρομπότ WALL-E",
+      "description": "Πλήρως 3D printed αντίγραφο του WALL-E, σχεδιασμένο και προγραμματισμένο από την ομάδα, με AI φωνητική αλληλεπίδραση."
     }
   },
   {
-    "icon": "📡",
-    "tags": ["IoT", "LoRa", "Python", "Embedded"],
-    "status": "active",
-    "featured": true,
-    "members": 3,
-    "github": "https://github.com/YOUR_GITHUB_USERNAME_OR_ORG/lora-network",
-    "en": {
-      "name": "LoRa sensor network",
-      "description": "Low-power mesh sensor network for campus environmental monitoring."
-    },
-    "el": {
-      "name": "Δίκτυο αισθητήρων LoRa",
-      "description": "Δίκτυο αισθητήρων χαμηλής ισχύος για περιβαλλοντική παρακολούθηση campus."
-    }
-  },
-  {
-    "icon": "🤖",
-    "tags": ["OpenCV", "Arduino", "Python", "Computer Vision"],
+    "icon": "🚁",
+    "tags": ["Drone", "IoT", "Live Streaming", "Embedded", "3D Printing"],
     "status": "active",
     "featured": true,
     "members": 4,
     "github": "",
     "en": {
-      "name": "Robotic arm controller",
-      "description": "6-DOF robotic arm with vision-based pick-and-place using OpenCV."
+      "name": "SKYVIEW Drone",
+      "description": "Smart 3D-printed drone capable of WiFi hotspot creation, live location tracking, and real-time YouTube streaming."
     },
     "el": {
-      "name": "Ελεγκτής ρομποτικού βραχίονα",
-      "description": "Ρομποτικός βραχίονας 6-DOF με vision-based pick-and-place μέσω OpenCV."
+      "name": "Drone SKYVIEW",
+      "description": "Έξυπνο 3D printed drone με δυνατότητα WiFi hotspot, live τοποθεσία και ζωντανή μετάδοση στο YouTube."
     }
   },
   {
-    "icon": "⚡",
-    "tags": ["VHDL", "FPGA", "DSP", "Xilinx"],
-    "status": "completed",
+    "icon": "📡",
+    "tags": ["Satellite", "UHF", "Embedded Systems", "STM32", "Energy Systems"],
+    "status": "active",
     "featured": true,
-    "members": 2,
+    "members": 3,
     "github": "",
     "en": {
-      "name": "FPGA signal processor",
-      "description": "Real-time DSP pipeline on Xilinx FPGA for audio and RF signals."
+      "name": "UoWM Funcube",
+      "description": "University satellite system featuring battery management, solar panels, power distribution, and UHF communication using an STM controller."
     },
     "el": {
-      "name": "Επεξεργαστής σήματος FPGA",
-      "description": "Pipeline DSP σε πραγματικό χρόνο σε Xilinx FPGA για ήχο και RF σήματα."
+      "name": "UoWM Funcube",
+      "description": "Δορυφορικό σύστημα με διαχείριση μπαταρίας, ηλιακά πάνελ, σύστημα ισχύος και επικοινωνία UHF με χρήση STM controller."
     }
   }
 ]
