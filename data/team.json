@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Χρήστος Τύπου",
+    "role": "Leader",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Αλκίνοος-Παναγιώτης Πολύζος",
+    "role": "Software Engineer",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "https://gr.linkedin.com/in/alkinoos-polyzos-b6149335a",
+    "github": ""
+  },
+  {
+    "name": "Ιωάννης Βουτσκίδης",
+    "role": "Hardware Engineer",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Χρήστος Λογδανίδης",
+    "role": "3D Modelling",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  }
+]
