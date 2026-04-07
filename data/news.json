@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "type": "announcement",
+    "date": "2025-10-11",
+    "image": "",
+    "links": [],
+    "en": {
+      "title": "New Team, New Beginning",
+      "excerpt": "Our team has officially launched and is ready to build, innovate, and grow together.",
+      "body": "We are excited to announce the official launch of our team.\n\nThis marks the beginning of a journey focused on innovation, collaboration, and hands-on engineering. Our goal is to bring together students who are passionate about technology and want to work on real-world projects.\n\nWhether you're into robotics, embedded systems, or just eager to learn, this is your opportunity to be part of something from the ground up.\n\nJoin us and help shape what comes next."
+    },
+    "el": {
+      "title": "Νέα Ομάδα, Νέα Αρχή",
+      "excerpt": "Η ομάδα μας ξεκίνησε επίσημα και σε περιμένει να εξελιχθούμε μαζί.",
+      "body": "Είμαστε ενθουσιασμένοι που ανακοινώνουμε την επίσημη έναρξη της ομάδας μας.\n\nΑυτό είναι το ξεκίνημα μιας πορείας με στόχο την καινοτομία, τη συνεργασία και την πρακτική ενασχόληση με τη μηχανική. Θέλουμε να φέρουμε κοντά φοιτητές με πάθος για την τεχνολογία και διάθεση για δημιουργία.\n\nΑν σε ενδιαφέρει η ρομποτική, τα embedded συστήματα ή απλά θέλεις να μάθεις και να εξελιχθείς, αυτή είναι η ευκαιρία σου.\n\nΓίνε μέρος της ομάδας και βοήθησε να χτίσουμε το μέλλον μας."
+    }
+  }
+]
