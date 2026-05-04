@@ -4,19 +4,19 @@
     "type": "hackathon",
     "status": "upcoming",
     "date": "2026-05-22",
-    "time": "18:00 – 20:30",
-    "icon": "🛠",
+    "time": "18:00 - 20:30",
+    "icon": "\ud83d\udee0",
     "image": "https://i.ibb.co/Q7WVSkTm/Screenshot-2026-05-04-at-2-19-11-PM.png",
     "url": "https://engage-hackathon-website.vercel.app/",
     "en": {
       "title": "Engage Hackathon",
-      "description": "Two days during which students, professors, and staff turn ideas into prototypes. Embedded systems, IoT, drones, robotics—hands-on, in the labs, in groups of three to five.",
+      "description": "Two days during which students, professors, and staff turn ideas into prototypes. Embedded systems, IoT, drones, robotics - hands-on, in the labs, in groups of three to five.",
       "location": "University of Western Macedonia, ZEP"
     },
     "el": {
       "title": "Engage Hackathon",
-      "description": "Δύο μέρες όπου φοιτητές, καθηγητές και συνεργάτες μετατρέπουν ιδέες σε πρωτότυπα. Ενσωματωμένα συστήματα, IoT, drones, ρομποτική — ζωντανά, στα εργαστήρια, σε ομάδες των τριών έως πέντε.",
-      "location": "Παν. Δυτικής Μακεδονίας, ΖΕΠ"
+      "description": "\u0394\u03cd\u03bf \u03bc\u03ad\u03c1\u03b5\u03c2 \u03cc\u03c0\u03bf\u03c5 \u03c6\u03bf\u03b9\u03c4\u03b7\u03c4\u03ad\u03c2, \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03ac\u03c4\u03b5\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c4\u03c1\u03ad\u03c0\u03bf\u03c5\u03bd \u03b9\u03b4\u03ad\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03c1\u03c9\u03c4\u03cc\u03c4\u03c5\u03c0\u03b1. \u0395\u03bd\u03c3\u03c9\u03bc\u03b1\u03c4\u03c9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1, IoT, drones, \u03c1\u03bf\u03bc\u03c0\u03bf\u03c4\u03b9\u03ba\u03ae - \u03b6\u03c9\u03bd\u03c4\u03b1\u03bd\u03ac, \u03c3\u03c4\u03b1 \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03b1, \u03c3\u03b5 \u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c1\u03b9\u03ce\u03bd \u03ad\u03c9\u03c2 \u03c0\u03ad\u03bd\u03c4\u03b5.",
+      "location": "\u03a0\u03b1\u03bd. \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0396\u0395\u03a0"
     }
   }
 ]
