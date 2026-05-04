@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "type": "workshop",
+    "status": "upcoming",
+    "date": "2026-05-22",
+    "time": "18:00 – 20:30",
+    "icon": "🛠",
+    "image": "",
+    "url": "https://example.com/register/ros2-workshop",
+    "en": {
+      "title": "Intro to ROS2",
+      "description": "A hands-on beginner workshop covering ROS2 fundamentals — nodes, topics, and your first robot simulation.",
+      "location": "Lab B2, University of Western Macedonia"
+    },
+    "el": {
+      "title": "Εισαγωγή στο ROS2",
+      "description": "Πρακτικό workshop για αρχάριους με τα βασικά του ROS2 — nodes, topics και η πρώτη σου προσομοίωση ρομπότ.",
+      "location": "Εργαστήριο Β2, Παν. Δυτικής Μακεδονίας"
+    }
+  },
+  {
+    "id": "2",
+    "type": "talk",
+    "status": "upcoming",
+    "date": "2026-06-05",
+    "time": "17:30 – 19:00",
+    "icon": "🎤",
+    "image": "",
+    "url": "https://example.com/register/embedded-talk",
+    "en": {
+      "title": "Embedded Systems in the Real World",
+      "description": "A guest talk by an industry engineer on how embedded systems power everything from medical devices to electric vehicles.",
+      "location": "Amphitheatre A, University of Western Macedonia"
+    },
+    "el": {
+      "title": "Ενσωματωμένα Συστήματα στην Πράξη",
+      "description": "Ομιλία από μηχανικό της βιομηχανίας για το πώς τα ενσωματωμένα συστήματα τροφοδοτούν ιατρικές συσκευές και ηλεκτρικά οχήματα.",
+      "location": "Αμφιθέατρο Α, Παν. Δυτικής Μακεδονίας"
+    }
+  },
+  {
+    "id": "3",
+    "type": "hackathon",
+    "status": "upcoming",
+    "date": "2026-06-20",
+    "time": "09:00 – 21:00",
+    "icon": "⚡",
+    "image": "",
+    "url": "https://example.com/register/engage-hackathon",
+    "en": {
+      "title": "ENGAGE 12-Hour Hackathon",
+      "description": "Build something from scratch in 12 hours. Open to all students — hardware, software, or a mix of both. Prizes for top 3 teams.",
+      "location": "Innovation Hub, University of Western Macedonia"
+    },
+    "el": {
+      "title": "ENGAGE 12ωρο Hackathon",
+      "description": "Φτιάξε κάτι από το μηδέν σε 12 ώρες. Ανοιχτό σε όλους τους φοιτητές — hardware, software ή συνδυασμός. Βραβεία για τις 3 πρώτες ομάδες.",
+      "location": "Innovation Hub, Παν. Δυτικής Μακεδονίας"
+    }
+  },
+  {
+    "id": "4",
+    "type": "meetup",
+    "status": "ongoing",
+    "date": "2026-05-05",
+    "time": "Every Tuesday, 19:00 – 20:00",
+    "icon": "☕",
+    "image": "",
+    "url": "",
+    "en": {
+      "title": "Weekly Member Meetup",
+      "description": "Our informal weekly gathering — share what you're building, ask questions, and connect with the team over coffee.",
+      "location": "Student Lounge, Building C"
+    },
+    "el": {
+      "title": "Εβδομαδιαία Συνάντηση Μελών",
+      "description": "Η ανεπίσημη εβδομαδιαία μας συνάντηση — μοιράσου τι φτιάχνεις, κάνε ερωτήσεις και γνωρίσε την ομάδα.",
+      "location": "Student Lounge, Κτίριο Γ"
+    }
+  },
+  {
+    "id": "5",
+    "type": "workshop",
+    "status": "past",
+    "date": "2026-03-14",
+    "time": "18:00 – 20:00",
+    "icon": "🔌",
+    "image": "",
+    "url": "https://example.com/recap/pcb-workshop",
+    "en": {
+      "title": "PCB Design with KiCad",
+      "description": "We covered the full PCB design workflow in KiCad — from schematic capture to Gerber export. 30 students attended.",
+      "location": "Lab B2, University of Western Macedonia"
+    },
+    "el": {
+      "title": "Σχεδιασμός PCB με KiCad",
+      "description": "Καλύψαμε τη ροή σχεδιασμού PCB στο KiCad — από το σχηματικό διάγραμμα μέχρι την εξαγωγή Gerber. Παρευρέθηκαν 30 φοιτητές.",
+      "location": "Εργαστήριο Β2, Παν. Δυτικής Μακεδονίας"
+    }
+  },
+  {
+    "id": "6",
+    "type": "talk",
+    "status": "past",
+    "date": "2026-02-20",
+    "time": "17:00 – 18:30",
+    "icon": "🤖",
+    "image": "",
+    "url": "",
+    "en": {
+      "title": "Machine Learning for Engineers",
+      "description": "An intro talk on applying ML in engineering contexts — computer vision for robotics, anomaly detection in sensors, and practical tooling.",
+      "location": "Online"
+    },
+    "el": {
+      "title": "Machine Learning για Μηχανικούς",
+      "description": "Εισαγωγική ομιλία για εφαρμογή ML σε μηχανολογικά πλαίσια — computer vision για ρομποτική και ανίχνευση ανωμαλιών σε αισθητήρες.",
+      "location": "Διαδικτυακά"
+    }
+  },
+  {
+    "id": "7",
+    "type": "meetup",
+    "status": "past",
+    "date": "2026-01-30",
+    "time": "19:00 – 21:00",
+    "icon": "🎉",
+    "image": "",
+    "url": "",
+    "en": {
+      "title": "Semester Kickoff Meetup",
+      "description": "Our spring semester kickoff — new members introduced themselves, active projects were presented, and the roadmap for the semester was shared.",
+      "location": "Student Lounge, Building C"
+    },
+    "el": {
+      "title": "Kickoff Εξαμήνου",
+      "description": "Η εκκίνηση του εαρινού εξαμήνου — τα νέα μέλη συστήθηκαν, παρουσιάστηκαν τα ενεργά project και μοιραστήκαμε το πλάνο του εξαμήνου.",
+      "location": "Student Lounge, Κτίριο Γ"
+    }
+  }
+]
