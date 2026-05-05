@@ -46,5 +46,21 @@
       "name": "UoWM Funcube",
       "description": "Δορυφορικό σύστημα με διαχείριση μπαταρίας, ηλιακά πάνελ, σύστημα ισχύος και επικοινωνία UHF με χρήση STM controller."
     }
+  },
+  {
+  "icon": "⚡",
+  "tags": ["Mobility", "Electric Vehicles", "SaaS", "Sustainability"],
+  "status": "active",
+  "featured": true,
+  "members": 5,
+  "github": "",
+  "en": {
+    "name": "Speeddrive",
+    "description": "Electric vehicle rental platform offering seamless access to eco-friendly transportation, featuring smart booking and real-time availability."
+  },
+  "el": {
+    "name": "Speeddrive",
+    "description": "Πλατφόρμα ενοικίασης ηλεκτρικών αυτοκινήτων που προσφέρει εύκολη πρόσβαση σε οικολογικές μετακινήσεις, με έξυπνες κρατήσεις και διαθεσιμότητα σε πραγματικό χρόνο."
   }
+}
 ]
