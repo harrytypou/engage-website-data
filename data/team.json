@@ -9,7 +9,7 @@
   },
   {
     "name": "Αλκίνοος Πολύζοος",
-    "role": "Communications Manager",
+    "role": "Communication Manager",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -103,4 +103,13 @@
     "linkedin": "",
     "github": ""
   }
+  {
+    "name": "Μαλαματή Λούτα",
+    "role": "Academic Supervisor",
+    "category": "Teacher",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  }
+  
 ]
