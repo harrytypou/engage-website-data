@@ -40,16 +40,8 @@
     "github": ""
   },
   {
-    "name": "Αλκίνοος Πολύζοος",
-    "role": "Communication Manager",
-    "category": "Student",
-    "photo": "",
-    "linkedin": "",
-    "github": ""
-  },
-  {
     "name": "Χαράλαμπος Τύπου",
-    "role": "Software / Hardware Engineer",
+    "role": "Software | Hardware Engineer",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -57,7 +49,7 @@
   },
   {
     "name": "Παναγιώτης Μπαξεβάνης",
-    "role": "Hardware Engineer",
+    "role": "Communication Manager | Hardware Engineer",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -65,7 +57,7 @@
   },
   {
     "name": "Δημήτρης Γκούντας",
-    "role": "Hardware / Software Engineer",
+    "role": "Hardware | Software Engineer",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -73,7 +65,7 @@
   },
   {
     "name": "Γιάννης Βουτσκίδης",
-    "role": "Hardware / Software Engineer",
+    "role": "Hardware | Software Engineer",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -81,7 +73,7 @@
   },
   {
     "name": "Φρανκίσκος Καρανδινός",
-    "role": "Hardware / Software Engineer",
+    "role": "Hardware | Software Engineer",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -106,14 +98,6 @@
   {
     "name": "Πρόδρομος Καμτζηρίδης",
     "role": "Hardware Engineer",
-    "category": "Student",
-    "photo": "",
-    "linkedin": "",
-    "github": ""
-  },
-  {
-    "name": "Σοφία Καργάκη",
-    "role": "Social Media Editor",
     "category": "Student",
     "photo": "",
     "linkedin": "",
