@@ -1,5 +1,13 @@
 [
   {
+    "name": "Μαλαματή Λούτα",
+    "role": "Academic Supervisor",
+    "category": "Teacher",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
     "name": "Χρήστος Τύπου",
     "role": "Team Leader",
     "category": "Student",
@@ -103,13 +111,4 @@
     "linkedin": "",
     "github": ""
   },
-  {
-    "name": "Μαλαματή Λούτα",
-    "role": "Academic Supervisor",
-    "category": "Teacher",
-    "photo": "",
-    "linkedin": "",
-    "github": ""
-  }
-  
 ]
