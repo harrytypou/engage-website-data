@@ -1,55 +1,56 @@
 [
   {
     "icon": "🤖",
-    "tags": ["Robotics", "3D Printing", "AI", "Embedded"],
+    "tags": [
+      "Robotics",
+      "3D Printing",
+      "AI",
+      "Embedded"
+    ],
     "status": "active",
     "featured": true,
     "members": 5,
     "github": "",
     "en": {
       "name": "SmartWaste AI",
-      "description": "SmartWaste AI is an innovative technological solution developed by team Engage from the Department of Electrical and Computer Engineering at the University of Western Macedonia. Designed specifically for the EcoZani innovation competition—an initiative focused on promoting sustainability, the circular economy, and smart resource management—SmartWaste AI aims to transform public space maintenance. By combining robotics with artificial intelligence, the project delivers an automated, eco-friendly, and highly precise response to urban waste management challenges.
-
-At its core, the system features an autonomous mobile robot powered by computer vision algorithms and AI model classification. It moves through public squares, parks, and shared spaces to autonomously identify and collect scattered litter, eliminating the need for manual cleanup. Using its trained AI vision model, the robot categorizes gathered materials in real time into plastic, paper, aluminum, or glass, and subsequently navigates to dispose of each item into its respective designated recycling bin to ensure optimal source separation.
-
-Through our participation in EcoZani, team Engage demonstrates how academic expertise and cutting-edge engineering can yield practical solutions with immediate environmental and social benefits. SmartWaste AI not only optimizes municipal cleaning efficiency and reduces operational costs, but also significantly boosts local recycling rates, paving the way toward cleaner, smarter, and more sustainable cities."
+      "description": "SmartWaste AI is an innovative technological solution developed by team Engage from the Department of Electrical and Computer Engineering at the University of Western Macedonia. Designed specifically for the EcoZani innovation competition—an initiative focused on promoting sustainability, the circular economy, and smart resource management—SmartWaste AI aims to transform public space maintenance. By combining robotics with artificial intelligence, the project delivers an automated, eco-friendly, and highly precise response to urban waste management challenges.\n\nAt its core, the system features an autonomous mobile robot powered by computer vision algorithms and AI model classification. It moves through public squares, parks, and shared spaces to autonomously identify and collect scattered litter, eliminating the need for manual cleanup. Using its trained AI vision model, the robot categorizes gathered materials in real time into plastic, paper, aluminum, or glass, and subsequently navigates to dispose of each item into its respective designated recycling bin to ensure optimal source separation.\n\nThrough our participation in EcoZani, team Engage demonstrates how academic expertise and cutting-edge engineering can yield practical solutions with immediate environmental and social benefits. SmartWaste AI not only optimizes municipal cleaning efficiency and reduces operational costs, but also significantly boosts local recycling rates, paving the way toward cleaner, smarter, and more sustainable cities."
     },
     "el": {
       "name": "SmartWaste AI",
-      "description": "Το SmartWaste AI αποτελεί μια πρωτοποριακή τεχνολογική πρόταση που αναπτύχθηκε από την ομάδα Engage του Τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Πανεπιστημίου Δυτικής Μακεδονίας. Το έργο σχεδιάστηκε ειδικά για τις ανάγκες του μαθητικού και φοιτητικού διαγωνισμού καινοτομίας EcoZani, ο οποίος προωθεί τη βιώσιμη ανάπτυξη, την κυκλική οικονομία και την έξυπνη διαχείριση πόρων στην τοπική κοινότητα. Συνδυάζοντας την τεχνητή νοημοσύνη με τη ρομποτική, το SmartWaste AI φιλοδοξεί να μετασχηματίσει τον τρόπο με τον οποίο διατηρούμε καθαρούς τους δημόσιους χώρους, προσφέροντας μια αυτοματοποιημένη, βιώσιμη και υψηλής ακρίβειας λύση στο πρόβλημα των απορριμμάτων.
-
-Στον πυρήνα του, το σύστημα χρησιμοποιεί ένα αυτόνομο ρομποτικό όχημα εξοπλισμένο με αλγορίθμους μηχανικής όρασης (Computer Vision) και τεχνητής νοημοσύνης. Το σύστημα εντοπίζει και συλλέγει αυτόνομα απορρίμματα από πλατείες, πάρκα και άλλους κοινόχρηστους χώρους, εξαλείφοντας την ανάγκη για χειροκίνητη διαλογή. Χάρη στο εκπαιδευμένο μοντέλο AI, το ρομπότ αναγνωρίζει σε πραγματικό χρόνο την κατηγορία κάθε αντικειμένου —ταξινομώντας το με ακρίβεια σε πλαστικό, χαρτί, αλουμίνιο ή γυαλί— και στη συνέχεια το μεταφέρει και το απορρίπτει στον αντίστοιχο ειδικό κάδο ανακύκλωσης, διασφαλίζοντας έτσι τη σωστή διαλογή στην πηγή.
-
-Με τη συμμετοχή μας στο EcoZani, η ομάδα Engage αποδεικνύει στην πράξη πώς η ακαδημαϊκή γνώση και η τεχνολογική αιχμή μπορούν να μετατραπούν σε εφαρμοσμένες λύσεις με άμεσο περιβαλλοντικό και κοινωνικό αντίκτυπο. Το SmartWaste AI δεν μειώνει απλώς το λειτουργικό κόστος καθαριότητας των δήμων, αλλά ενισχύει ουσιαστικά τα ποσοστά ανακύκλωσης και καλλιεργεί μια νέα, περιβαλλοντικά ενήμερη κουλτούρα στις σύγχρονες έξυπνες πόλεις."
+      "description": "Το SmartWaste AI αποτελεί μια πρωτοποριακή τεχνολογική πρόταση που αναπτύχθηκε από την ομάδα Engage του Τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Πανεπιστημίου Δυτικής Μακεδονίας. Το έργο σχεδιάστηκε ειδικά για τις ανάγκες του μαθητικού και φοιτητικού διαγωνισμού καινοτομίας EcoZani, ο οποίος προωθεί τη βιώσιμη ανάπτυξη, την κυκλική οικονομία και την έξυπνη διαχείριση πόρων στην τοπική κοινότητα. Συνδυάζοντας την τεχνητή νοημοσύνη με τη ρομποτική, το SmartWaste AI φιλοδοξεί να μετασχηματίσει τον τρόπο με τον οποίο διατηρούμε καθαρούς τους δημόσιους χώρους, προσφέροντας μια αυτοματοποιημένη, βιώσιμη και υψηλής ακρίβειας λύση στο πρόβλημα των απορριμμάτων.\n\nΣτον πυρήνα του, το σύστημα χρησιμοποιεί ένα αυτόνομο ρομποτικό όχημα εξοπλισμένο με αλγορίθμους μηχανικής όρασης (Computer Vision) και τεχνητής νοημοσύνης. Το σύστημα εντοπίζει και συλλέγει αυτόνομα απορρίμματα από πλατείες, πάρκα και άλλους κοινόχρηστους χώρους, εξαλείφοντας την ανάγκη για χειροκίνητη διαλογή. Χάρη στο εκπαιδευμένο μοντέλο AI, το ρομπότ αναγνωρίζει σε πραγματικό χρόνο την κατηγορία κάθε αντικειμένου —ταξινομώντας το με ακρίβεια σε πλαστικό, χαρτί, αλουμίνιο ή γυαλί— και στη συνέχεια το μεταφέρει και το απορρίπτει στον αντίστοιχο ειδικό κάδο ανακύκλωσης, διασφαλίζοντας έτσι τη σωστή διαλογή στην πηγή.\n\nΜε τη συμμετοχή μας στο EcoZani, η ομάδα Engage αποδεικνύει στην πράξη πώς η ακαδημαϊκή γνώση και η τεχνολογική αιχμή μπορούν να μετατραπούν σε εφαρμοσμένες λύσεις με άμεσο περιβαλλοντικό και κοινωνικό αντίκτυπο. Το SmartWaste AI δεν μειώνει απλώς το λειτουργικό κόστος καθαριότητας των δήμων, αλλά ενισχύει ουσιαστικά τα ποσοστά ανακύκλωσης και καλλιεργεί μια νέα, περιβαλλοντικά ενήμερη κουλτούρα στις σύγχρονες έξυπνες πόλεις."
     }
   },
   {
     "icon": "🚁",
-    "tags": ["Drone", "IoT", "Live Streaming", "Embedded", "3D Printing"],
+    "tags": [
+      "Drone",
+      "IoT",
+      "Live Streaming",
+      "Embedded",
+      "3D Printing"
+    ],
     "status": "completed",
     "featured": true,
     "members": 4,
     "github": "",
     "en": {
       "name": "Sky View Drone",
-      "description": "Sky View Drone is an advanced technological achievement developed by team Engage from the Department of Electrical and Computer Engineering at the University of Western Macedonia. Designed to provide reliable solutions for aerial surveillance and remote monitoring, this project integrates cutting-edge unmanned aerial vehicle (UAV) systems with high-performance telecommunications. With a strong emphasis on operational autonomy and quality data transmission, the Sky View Drone addresses critical needs across infrastructure inspection, environmental mapping, and public safety applications.
-
-On the technical side, the drone features high-definition 1080p live streaming, delivering crisp, real-time video feeds over an impressive communication range of up to 5 kilometers while operating at an altitude of up to 15 meters. Its most notable advantage lies in its energy efficiency and battery management: depending on prevailing weather conditions, the drone can achieve a flight autonomy of up to 8 hours, enabling extended missions without the constant need for recharging stops.
-
-Through the Sky View Drone project, team Engage reinforces its commitment to engineering innovative hardware and software solutions that push the boundaries of modern robotics. The powerful combination of long-range operation, exceptional battery life, and clear visual streaming positions this project as a highly effective tool for complex, continuous aerial observation tasks."
+      "description": "Sky View Drone is an advanced technological achievement developed by team Engage from the Department of Electrical and Computer Engineering at the University of Western Macedonia. Designed to provide reliable solutions for aerial surveillance and remote monitoring, this project integrates cutting-edge unmanned aerial vehicle (UAV) systems with high-performance telecommunications. With a strong emphasis on operational autonomy and quality data transmission, the Sky View Drone addresses critical needs across infrastructure inspection, environmental mapping, and public safety applications.\n\nOn the technical side, the drone features high-definition 1080p live streaming, delivering crisp, real-time video feeds over an impressive communication range of up to 5 kilometers while operating at an altitude of up to 15 meters. Its most notable advantage lies in its energy efficiency and battery management: depending on prevailing weather conditions, the drone can achieve a flight autonomy of up to 8 hours, enabling extended missions without the constant need for recharging stops.\n\nThrough the Sky View Drone project, team Engage reinforces its commitment to engineering innovative hardware and software solutions that push the boundaries of modern robotics. The powerful combination of long-range operation, exceptional battery life, and clear visual streaming positions this project as a highly effective tool for complex, continuous aerial observation tasks."
     },
     "el": {
       "name": "Drone Sky View",
-      "description": "To Sky View Drone αποτελεί ένα προηγμένο τεχνολογικό επίτευγμα της ομάδας Engage του Τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Πανεπιστημίου Δυτικής Μακεδονίας. Το συγκεκριμένο έργο σχεδιάστηκε με γνώμονα την παροχή αξιόπιστων λύσεων εναέριας επιτήρησης και απομακρυσμένης παρακολούθησης, συνδυάζοντας τεχνολογίες αιχμής στον τομέα των μη επανδρωμένων αεροσκαφών (UAVs) και των τηλεπικοινωνιών. Με έμφαση στην επιχειρησιακή αυτονομία και την ποιότητα μετάδοσης δεδομένων, το Sky View Drone έρχεται να καλύψει αυξημένες ανάγκες σε εφαρμογές χαρτογράφησης, επιθεώρησης υποδομών και πολιτικής προστασίας.
-
-Στο τεχνικό κομμάτι, το drone διαθέτει δυνατότητα ζωντανής μετάδοσης βίντεο υψηλής ευκρίνειας (1080p Streaming), προσφέροντας πεντακάθαρη εικόνα σε πραγματικό χρόνο. Παράλληλα, εξασφαλίζει εντυπωσιακή εμβέλεια επικοινωνίας που φτάνει έως και τα 5 χιλιόμετρα, επιχειρώντας σε ύψος έως 15 μέτρα. Το πλέον ανταγωνιστικό του πλεονέκτημα εντοπίζεται στην ενεργειακή του διαχείριση: ανάλογα με τις επικρατούσες καιρικές συνθήκες, η μπαταρία του προσφέρει αυτονομία πτήσης έως και 8 ώρες, επιτρέποντας πολύωρες αποστολές χωρίς την ανάγκη συχνών στάσεων για επαναφόρτιση.
-
-Με το Sky View Drone, η ομάδα Engage επιβεβαιώνει την προσήλωσή της στην ανάπτυξη καινοτόμων μηχανολογικών και λογισμικών λύσεων που διευρύνουν τα όρια της ρομποτικής. Η συνδυασμένη απόδοση της μεγάλης εμβέλειας, της μεγάλης διάρκειας μπαταρίας και της υψηλής ανάλυσης εικόνας καθιστά το project έναν ισχυρό σύμμαχο σε εξειδικευμένες εφαρμογές που απαιτούν συνεχή και ακριβή εναέρια παρατήρηση."
+      "description": "Το Sky View Drone αποτελεί ένα προηγμένο τεχνολογικό επίτευγμα της ομάδας Engage του Τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών του Πανεπιστημίου Δυτικής Μακεδονίας. Το συγκεκριμένο έργο σχεδιάστηκε με γνώμονα την παροχή αξιόπιστων λύσεων εναέριας επιτήρησης και απομακρυσμένης παρακολούθησης, συνδυάζοντας τεχνολογίες αιχμής στον τομέα των μη επανδρωμένων αεροσκαφών (UAVs) και των τηλεπικοινωνιών. Με έμφαση στην επιχειρησιακή αυτονομία και την ποιότητα μετάδοσης δεδομένων, το Sky View Drone έρχεται να καλύψει αυξημένες ανάγκες σε εφαρμογές χαρτογράφησης, επιθεώρησης υποδομών και πολιτικής προστασίας.\n\nΣτο τεχνικό κομμάτι, το drone διαθέτει δυνατότητα ζωντανής μετάδοσης βίντεο υψηλής ευκρίνειας (1080p Streaming), προσφέροντας πεντακάθαρη εικόνα σε πραγματικό χρόνο. Παράλληλα, εξασφαλίζει εντυπωσιακή εμβέλεια επικοινωνίας που φτάνει έως και τα 5 χιλιόμετρα, επιχειρώντας σε ύψος έως 15 μέτρα. Το πλέον ανταγωνιστικό του πλεονέκτημα εντοπίζεται στην ενεργειακή του διαχείριση: ανάλογα με τις επικρατούσες καιρικές συνθήκες, η μπαταρία του προσφέρει αυτονομία πτήσης έως και 8 ώρες, επιτρέποντας πολύωρες αποστολές χωρίς την ανάγκη συχνών στάσεων για επαναφόρτιση.\n\nΜε το Sky View Drone, η ομάδα Engage επιβεβαιώνει την προσήλωσή της στην ανάπτυξη καινοτόμων μηχανολογικών και λογισμικών λύσεων που διευρύνουν τα όρια της ρομποτικής. Η συνδυασμένη απόδοση της μεγάλης εμβέλειας, της μεγάλης διάρκειας μπαταρίας και της υψηλής ανάλυσης εικόνας καθιστά το project έναν ισχυρό σύμμαχο σε εξειδικευμένες εφαρμογές που απαιτούν συνεχή και ακριβή εναέρια παρατήρηση."
     }
   },
   {
     "icon": "📡",
-    "tags": ["Satellite", "UHF", "Embedded Systems", "STM32", "Energy Systems"],
+    "tags": [
+      "Satellite",
+      "UHF",
+      "Embedded Systems",
+      "STM32",
+      "Energy Systems"
+    ],
     "status": "active",
     "featured": true,
     "members": 3,
@@ -64,35 +65,45 @@ Through the Sky View Drone project, team Engage reinforces its commitment to eng
     }
   },
   {
-  "icon": "⚡",
-  "tags": ["Mobility", "Electric Vehicles", "SaaS", "Sustainability"],
-  "status": "completed",
-  "featured": true,
-  "members": 2,
-  "github": "",
-  "en": {
-    "name": "Speeddrive",
-    "description": "Electric vehicle rental platform offering seamless access to eco-friendly transportation, featuring smart booking and real-time availability."
+    "icon": "⚡",
+    "tags": [
+      "Mobility",
+      "Electric Vehicles",
+      "SaaS",
+      "Sustainability"
+    ],
+    "status": "completed",
+    "featured": true,
+    "members": 2,
+    "github": "",
+    "en": {
+      "name": "Speeddrive",
+      "description": "Electric vehicle rental platform offering seamless access to eco-friendly transportation, featuring smart booking and real-time availability."
+    },
+    "el": {
+      "name": "Speeddrive",
+      "description": "Πλατφόρμα ενοικίασης ηλεκτρικών αυτοκινήτων που προσφέρει εύκολη πρόσβαση σε οικολογικές μετακινήσεις, με έξυπνες κρατήσεις και διαθεσιμότητα σε πραγματικό χρόνο."
+    }
   },
-  "el": {
-    "name": "Speeddrive",
-    "description": "Πλατφόρμα ενοικίασης ηλεκτρικών αυτοκινήτων που προσφέρει εύκολη πρόσβαση σε οικολογικές μετακινήσεις, με έξυπνες κρατήσεις και διαθεσιμότητα σε πραγματικό χρόνο."
+  {
+    "icon": "🏡",
+    "tags": [
+      "App Design",
+      "Cloud Storage",
+      "Smart Sensors",
+      "Software Development"
+    ],
+    "status": "active",
+    "featured": true,
+    "members": 3,
+    "github": "",
+    "en": {
+      "name": "SmartHome",
+      "description": "Smart sensor data uploaded to a locally developed app."
+    },
+    "el": {
+      "name": "SmartHome",
+      "description": "Ενημέρωση δεδομένων έξυπνων αισθητήρων σε εφαρμογή που αναπτύξαμε τοπικά."
+    }
   }
-},
-   {
-  "icon": "🏡",
-  "tags": ["App Design", "Cloud Storage", "Smart Sensors", "Software Development"],
-  "status": "active",
-  "featured": true,
-  "members": 3,
-  "github": "",
-  "en": {
-    "name": "SmartHome",
-    "description": "Smart sensor data upload on the localy developed app."
-  },
-  "el": {
-    "name": "Speeddrive",
-    "description": "Ενημέρωση δεδομένων έξυπνων αισθητήρων σε εφαρμογή που αναπτύξαμε τοπικά."
-  }
-}
 ]
