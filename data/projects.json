@@ -43,28 +43,6 @@
     }
   },
   {
-    "icon": "📡",
-    "tags": [
-      "Satellite",
-      "UHF",
-      "Embedded Systems",
-      "STM32",
-      "Energy Systems"
-    ],
-    "status": "active",
-    "featured": true,
-    "members": 3,
-    "github": "",
-    "en": {
-      "name": "UoWM Funcube",
-      "description": "University satellite system featuring battery management, solar panels, power distribution, and UHF communication using an STM controller."
-    },
-    "el": {
-      "name": "UoWM Funcube",
-      "description": "Δορυφορικό σύστημα με διαχείριση μπαταρίας, ηλιακά πάνελ, σύστημα ισχύος και επικοινωνία UHF με χρήση STM controller."
-    }
-  },
-  {
     "icon": "⚡",
     "tags": [
       "Mobility",
