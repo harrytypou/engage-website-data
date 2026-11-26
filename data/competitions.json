@@ -1,4 +1,19 @@
 [
+   {
+    "status": "active",
+    "result": "",
+    "url": "",
+    "en": {
+      "name": "Ecozani Innovation Competition",
+      "date": "2026",
+      "scope": "National"
+    },
+    "el": {
+      "name": "Διαγωνισμός Καινοτομίας Ecozani",
+      "date": "2026",
+      "scope": "Εθνικός"
+    }
+  },
   {
     "status": "past",
     "result": "",
