@@ -1,5 +1,19 @@
 [
    {
+    "name": "Region Of Western Macedonia",
+    "tier": "gold",
+    "display_mode": "logo",
+    "logo": "img/RWM.png",
+    "website": "https://en.pdm.gov.gr/"
+  },
+   {
+    "name": "Dassault Solidworks",
+    "tier": "support",
+    "display_mode": "logo",
+    "logo": "img/SolidWorks.png",
+    "website": "https://www.3ds.com/products/solidworks"
+  },
+   {
     "name": "EcoZani",
     "tier": "gold",
     "display_mode": "logo",
